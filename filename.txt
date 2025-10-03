@@ -2,3 +2,5 @@ jio
 airtel
 aircel
 tatadocomo
+hutch
+vodafoneidea
