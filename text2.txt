@@ -1,2 +1,5 @@
 hp
 dell
+lenovo
+asus
+msi
